@@ -52,3 +52,29 @@ Pizza-Sales-Analysis/
 │── Data/
 │ └── pizza_sales.csv
 
+
+---
+
+## 📸 Dashboard Preview
+Screenshots of the dashboard are available in the **Screenshots** folder for quick viewing without opening Power BI.
+
+---
+
+## 🔍 Business Value
+- Helps stakeholders identify high-revenue products
+- Supports inventory and marketing decisions
+- Improves understanding of customer demand patterns
+
+---
+
+## 🚀 Future Enhancements
+- Add forecasting for sales prediction
+- Integrate real-time data sources
+- Publish dashboard to Power BI Service
+
+---
+
+## 👤 Author
+**Naveen Gudepu**  
+Aspiring Data Analyst 
+Skilled in Power BI, SQL, and Data Visualization
